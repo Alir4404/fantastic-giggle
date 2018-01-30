@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/d8/50/69/d850698ab4cb56b9b5ee61974ac1d19c.jpg");
+}
+
+h1 {
+    color: pink;
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 5%;
+    margin-bottom: 2%;
+    text-align:  center;
+
+}
+
+div {
+    text-align: center;
+}
+
+#banner {width: 50%;
+    border: 4px #FF84E8 dotted;
+    padding: 15px;
+    margin-top: 2%
+}
+
+a {
+    color: black;
+}
